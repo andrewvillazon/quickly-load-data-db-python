@@ -2,4 +2,4 @@
 
 Uses Threading, Queues, and Multi-Row Inserts to demonstrate a way of quickly loading large volumes of data to a Database.
 
-The code is explained in greater detail here.
+The code is explained in greater detail [here](https://www.andrewvillazon.com/quickly-load-data-db-python/).
